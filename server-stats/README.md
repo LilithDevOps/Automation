@@ -2,7 +2,8 @@
 
 This is one of my first DevOps learning project ideas to practice and sharpen my skills — a simple yet practical Bash script to monitor server performance stats on any Linux system. My goal was to gain hands-on experience with Bash scripting, system resource monitoring, and eventually build this into something more advanced.
 
-https://roadmap.sh/projects/server-stats
+[https://roadmap.sh/projects/server-stats
+](https://roadmap.sh/projects/server-stats)
 
 ## 🚀 What It Does
 
